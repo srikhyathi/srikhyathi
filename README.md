@@ -239,9 +239,9 @@ Hands-on exposure to embedded systems and related technologies.
 
 <div align="center">
 
-# 🌱 Currently Learning
+# ⚡ Technology Focus
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2300&pause=650&center=true&vCenter=true&width=750&lines=Cloud+Computing+%E2%98%81%EF%B8%8F;DevOps+%26+Automation+%E2%9A%99%EF%B8%8F;AI+%26+Machine+Learning+%F0%9F%A4%96;Data+%26+Database+Technologies+%F0%9F%97%84%EF%B8%8F;Building+Industry-Ready+Projects+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2300&pause=650&center=true&vCenter=true&width=750&lines=Cloud+Computing+%E2%98%81%EF%B8%8F;DevOps+%26+Automation+%E2%9A%99%EF%B8%8F;AI+%26+Machine+Learning+%F0%9F%A4%96;Data+%26+Database+Technologies+%F0%9F%97%84%EF%B8%8F;Engineering+Real-World+Technology+Solutions+%F0%9F%9A%80" />
 
 </div>
 
