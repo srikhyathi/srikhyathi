@@ -88,27 +88,26 @@ I enjoy transforming ideas into practical applications and continuously improvin
 
 ### `AI × NLP × Full Stack × Cloud`
 
-An intelligent career platform concept focused on helping users understand their career fit by analysing resumes, job descriptions and technical skills.
+An AI-powered career intelligence platform designed to analyze resumes, job descriptions and technical skills to provide career insights, job-fit analysis and personalized skill-development recommendations.
 
-### ✨ Planned Capabilities
+### ✨ Core Capabilities
 
 - 📄 Resume analysis
 - 🧠 AI-powered skill extraction
 - 🔍 Job description analysis
 - 📊 Resume-to-job matching
 - 🎯 Skill-gap identification
-- 💼 Job recommendations
+- 💼 Intelligent job recommendations
 - 📚 Personalized learning recommendations
 - 📈 Career analytics
 - 🔐 Authentication
 - 🌐 REST APIs
-- ☁️ Cloud deployment
+- 🗄️ Structured data management
+- ☁️ Cloud-ready architecture
 
-### 🛠️ Technology Direction
+### 🛠️ Technology Stack
 
 `Python` `FastAPI` `React` `SQL` `NLP` `Machine Learning` `Docker` `AWS` `Azure` `GCP` `Terraform`
-
-**🚧 Building / Planned Project**
 
 </td>
 
@@ -118,22 +117,23 @@ An intelligent career platform concept focused on helping users understand their
 
 ### `AI × Computer Vision × IoT`
 
-An AI-driven road-safety system designed to recognize potholes and provide location-based alerts using computer vision, camera streaming and GPS.
+An AI-powered road-safety system designed to identify road-surface damage from visual data and generate location-aware safety alerts for intelligent transportation applications.
 
-### ✨ Key Features
+### ✨ Core Capabilities
 
-- 🎯 Pothole detection
-- 📷 Camera-based monitoring
-- 🤖 YOLO-based computer vision
-- 🧠 OpenCV image processing
-- 📍 GPS location identification
-- 📡 ESP32 integration
-- ☁️ Cloud-based alert mechanism
-- 🚘 Autonomous vehicle alert concept
+- 🎯 Multi-class road-damage detection
+- 📷 Image and video analysis
+- 🤖 YOLO-based object detection
+- 🧠 OpenCV computer vision processing
+- 📊 Confidence-based detection
+- 📍 GPS-based location information
+- 🚘 Vehicle safety alert mechanism
+- 🔄 Real-time detection pipeline
+- 📡 IoT-ready architecture
 
-### 🛠️ Technologies
+### 🛠️ Technology Stack
 
-`YOLO` `Python` `OpenCV` `TensorFlow` `ESP32` `GPS` `IoT`
+`Python` `YOLO` `OpenCV` `TensorFlow` `GPS` `ESP32` `IoT`
 
 ### 🏆 Publication
 
