@@ -84,30 +84,33 @@ I enjoy transforming ideas into practical applications and continuously improvin
 
 <td width="50%" valign="top">
 
-# 🤖 AI Career Intelligence Platform
+# 🤖 Enterprise AI Operations Agent
 
-### `AI × NLP × Full Stack × Cloud`
+### `GenAI × RAG × AI Agents × Full Stack × Cloud`
 
-An AI-powered career intelligence platform designed to analyze resumes, job descriptions and technical skills to provide career insights, job-fit analysis and personalized skill-development recommendations.
+An enterprise-oriented AI platform designed to assist with knowledge retrieval, operational requests, workflow automation and controlled task execution through AI agents, business data and approved tools.
 
 ### ✨ Core Capabilities
 
-- 📄 Resume analysis
-- 🧠 AI-powered skill extraction
-- 🔍 Job description analysis
-- 📊 Resume-to-job matching
-- 🎯 Skill-gap identification
-- 💼 Intelligent job recommendations
-- 📚 Personalized learning recommendations
-- 📈 Career analytics
-- 🔐 Authentication
+- 🤖 AI-powered operations agent
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🧠 Enterprise knowledge retrieval
+- 🔍 Context-aware question answering
+- 🗄️ Database-driven information access
+- 🔧 Tool and API integration
+- 🎫 Operational and support workflows
+- 👤 Role-based access control
+- ✅ Human approval for sensitive actions
+- 📝 Audit logging
+- 📊 Operations dashboard
+- 🔐 Secure authentication
 - 🌐 REST APIs
-- 🗄️ Structured data management
 - ☁️ Cloud-ready architecture
+- 🐳 Containerized deployment
 
 ### 🛠️ Technology Stack
 
-`Python` `FastAPI` `React` `SQL` `NLP` `Machine Learning` `Docker` `AWS` `Azure` `GCP` `Terraform`
+`Python` `FastAPI` `React` `TypeScript` `LLM` `RAG` `AI Agents` `PostgreSQL` `pgvector` `REST APIs` `Docker` `AWS`
 
 </td>
 
@@ -195,6 +198,16 @@ Hands-on exposure to embedded systems and related technologies.
 
 ---
 
+### 🔧 IoT & Embedded Systems Training
+
+**Sri Shasha Prayathi Technologies Pvt. Ltd.**
+
+`Arduino UNO` · `Raspberry Pi` · `Radar Sensors` · `IoT`
+
+Worked on programming with **Arduino UNO and Raspberry Pi**, integrating **radar sensors** and exploring their applications in IoT-based systems.
+
+---
+
 # 🧩 Technical Proficiencies
 
 <div align="center">
@@ -206,7 +219,7 @@ Hands-on exposure to embedded systems and related technologies.
 | 🎨 Frontend | HTML · CSS · JavaScript |
 | 🗄️ Database | SQL · PL/SQL · Oracle · MySQL · DBMS |
 | 🤖 AI / ML | YOLO · TensorFlow · OpenCV |
-| 🔌 IoT / Embedded | ESP32 · GPS · IoT |
+| 🔌 IoT / Embedded | ESP32 · GPS · Arduino UNO · Raspberry Pi · Radar Sensors · IoT |
 | ☁️ Cloud | AWS · Azure · GCP |
 | ⚙️ DevOps / IaC | Terraform |
 | 🔗 Backend | REST APIs |
