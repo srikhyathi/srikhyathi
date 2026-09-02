@@ -69,7 +69,7 @@ I enjoy transforming ideas into practical applications and continuously improvin
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 <div align="center">
 
