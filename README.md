@@ -228,28 +228,6 @@ Worked on programming with **Arduino UNO and Raspberry Pi**, integrating **radar
 
 </div>
 
----
-
-# 🎓 Education
-
-### 🎓 B.Tech — Electronics & Communication Engineering
-
-**Prasad V. Potluri Siddhartha Institute of Technology (PVPSIT)**
-
----
-
-### 🎓 Diploma — Electronics & Communication Engineering
-
-**Krishnaveni Polytechnic College**
-
----
-
-### 🏫 SSC
-
-**Narayana E-Techno School**
-
----
-
 <div align="center">
 
 # ⚡ Technology Focus
