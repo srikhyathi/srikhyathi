@@ -206,24 +206,6 @@ An AI-powered road-safety system designed to detect potholes using computer visi
 
 ---
 
-# 📈 My Development Journey
-
-<div align="center">
-
-### **Learn → Build → Test → Deploy → Improve**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=700&center=true&vCenter=true&width=750&lines=Every+project+is+a+learning+experience.;Every+problem+is+an+opportunity+to+build.;Every+failure+is+a+step+towards+improvement.;Keep+learning.+Keep+building.+Keep+growing.+%F0%9F%9A%80" />
-
-</div>
-
----
-
 # 🤝 Connect With Me
 
 <div align="center">
@@ -232,17 +214,13 @@ An AI-powered road-safety system designed to detect potholes using computer visi
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sri-khyathi/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="https://discord.com">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub+profile!+%F0%9F%92%99;Keep+Learning.+Keep+Building.+Keep+Growing.+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub+profile!+%F0%9F%92%99" />
 
 </div>
 
