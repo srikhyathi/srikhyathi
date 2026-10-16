@@ -119,25 +119,50 @@ An enterprise-oriented AI platform designed to assist with knowledge retrieval, 
 
 ## 🚗 AI Pothole Recognition & Alert System
 
-### `AI × Computer Vision × IoT`
+### `AI × Computer Vision × IoT × Road Safety`
 
-An AI-powered road-safety system designed to identify road-surface damage from visual data and generate location-aware safety alerts for intelligent transportation applications.
+An AI-powered road-safety system designed to detect potholes and road-surface damage using computer vision and generate location-aware alerts to support safer and smarter transportation systems.
 
 ### ✨ Core Capabilities
 
-- 🎯 Multi-class road-damage detection
-- 📷 Image and video analysis
-- 🤖 YOLO-based object detection
-- 🧠 OpenCV computer vision processing
-- 📊 Confidence-based detection
-- 📍 GPS-based location information
+- 🎯 AI-based pothole and road-damage detection
+- 📷 Image-based road-condition analysis
+- 🎥 Video-based road-surface monitoring
+- 🤖 YOLOv4 object detection
+- 🧠 OpenCV image processing and computer vision
+- 📊 Confidence-score-based detection
+- 📍 GPS coordinate collection for damage locations
+- 📡 ESP32 camera module integration
 - 🚘 Vehicle safety alert mechanism
-- 🔄 Real-time detection pipeline
-- 📡 IoT-ready architecture
+- ⚡ Automated damage identification workflow
+- 🔄 Road-condition monitoring
+- ☁️ Location-aware alert generation
+- 📊 Detection results and road-damage information
+- 🔗 AI model and IoT component integration
+- 🛣️ Smart transportation and road-maintenance support
+
+### ⚙️ System Workflow
+
+1. 📷 **Image Acquisition** — Capture road images using a camera module.
+2. 🧹 **Image Processing** — Prepare visual data using OpenCV.
+3. 🤖 **AI Detection** — Use a YOLO-based model to identify potholes.
+4. 📊 **Detection Analysis** — Evaluate detected objects and confidence scores.
+5. 📍 **Location Identification** — Associate damage reports with available GPS coordinates.
+6. 🚨 **Alert Generation** — Generate road-safety alerts for detected damage.
+7. 📡 **Information Sharing** — Make detection and location information available to the connected system.
 
 ### 🛠️ Technology Stack
 
-`Python` `YOLOv4` `OpenCV` `TensorFlow` `GPS` `ESP32` `IoT`
+`Python` `YOLOv4` `OpenCV` `TensorFlow` `ESP32-CAM` `GPS` `IoT Sensors` `Computer Vision` `Object Detection` `Image Processing`
+
+### 🌍 Potential Applications
+
+- 🛣️ Road-condition monitoring
+- 🚗 Intelligent transportation systems
+- 🚧 Pothole identification and reporting
+- 🏙️ Smart-city infrastructure
+- 🔧 Road-maintenance planning
+- 🚦 Vehicle safety support
 
 </td>
 
