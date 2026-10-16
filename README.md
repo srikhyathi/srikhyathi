@@ -147,26 +147,6 @@ An AI-powered road-safety system designed to identify road-surface damage from v
 </tr>
 </table>
 
----
-
-# 🏆 Research & Publication
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/IEEE-PUBLISHED-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ICOSEC-2024-6C63FF?style=for-the-badge"/>
-
-<br/><br/>
-
-## 🤖 AI-Driven Pothole Recognition and Autonomous Vehicle Alert System
-
-**5th International Conference on Smart Electronics and Communication (ICOSEC 2024)**
-
-📍 Trichy, India
-
-📚 IEEE Conference Publication
-
 </div>
 
 # 🧩 Technical Proficiencies
