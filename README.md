@@ -89,7 +89,7 @@ I enjoy transforming ideas into practical applications and continuously improvin
 
 ### `GenAI × RAG × AI Agents × Full Stack × Cloud`
 
-An enterprise-oriented AI platform designed to assist with knowledge retrieval, operational requests, workflow automation, and controlled task execution through AI agents, business data, and approved tools.
+An enterprise-oriented AI platform designed to assist with knowledge retrieval, operational requests, workflow automation, and controlled task execution through AI agents and approved tools.
 
 ### ✨ Core Capabilities
 
@@ -119,50 +119,31 @@ An enterprise-oriented AI platform designed to assist with knowledge retrieval, 
 
 ## 🚗 AI Pothole Recognition & Alert System
 
-### `AI × Computer Vision × IoT × Road Safety`
+### `AI × Computer Vision × IoT`
 
-An AI-powered road-safety system designed to detect potholes and road-surface damage using computer vision and generate location-aware alerts to support safer and smarter transportation systems.
+An AI-powered road-safety system designed to detect potholes using computer vision and provide location-aware alerts for intelligent transportation applications.
 
 ### ✨ Core Capabilities
 
-- 🎯 AI-based pothole and road-damage detection
-- 📷 Image-based road-condition analysis
-- 🎥 Video-based road-surface monitoring
+- 🎯 AI-based pothole detection
+- 📷 Image and video analysis
 - 🤖 YOLOv4 object detection
-- 🧠 OpenCV image processing and computer vision
-- 📊 Confidence-score-based detection
-- 📍 GPS coordinate collection for damage locations
+- 🧠 OpenCV image processing
+- 📊 Confidence-based detection
+- 📍 GPS-based location information
 - 📡 ESP32 camera module integration
 - 🚘 Vehicle safety alert mechanism
-- ⚡ Automated damage identification workflow
 - 🔄 Road-condition monitoring
 - ☁️ Location-aware alert generation
-- 📊 Detection results and road-damage information
-- 🔗 AI model and IoT component integration
-- 🛣️ Smart transportation and road-maintenance support
-
-### ⚙️ System Workflow
-
-1. 📷 **Image Acquisition** — Capture road images using a camera module.
-2. 🧹 **Image Processing** — Prepare visual data using OpenCV.
-3. 🤖 **AI Detection** — Use a YOLO-based model to identify potholes.
-4. 📊 **Detection Analysis** — Evaluate detected objects and confidence scores.
-5. 📍 **Location Identification** — Associate damage reports with available GPS coordinates.
-6. 🚨 **Alert Generation** — Generate road-safety alerts for detected damage.
-7. 📡 **Information Sharing** — Make detection and location information available to the connected system.
+- 🗺️ Road-damage location identification
+- 🔗 AI and IoT component integration
+- 🛣️ Smart transportation support
+- 🚧 Road-damage identification
+- 📊 Detection result analysis
 
 ### 🛠️ Technology Stack
 
-`Python` `YOLOv4` `OpenCV` `TensorFlow` `ESP32-CAM` `GPS` `IoT Sensors` `Computer Vision` `Object Detection` `Image Processing`
-
-### 🌍 Potential Applications
-
-- 🛣️ Road-condition monitoring
-- 🚗 Intelligent transportation systems
-- 🚧 Pothole identification and reporting
-- 🏙️ Smart-city infrastructure
-- 🔧 Road-maintenance planning
-- 🚦 Vehicle safety support
+`Python` `YOLOv4` `OpenCV` `TensorFlow` `GPS` `ESP32` `IoT`
 
 </td>
 
