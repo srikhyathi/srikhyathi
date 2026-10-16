@@ -169,45 +169,6 @@ An AI-powered road-safety system designed to identify road-surface damage from v
 
 </div>
 
----
-
-# 💼 Experience
-
-### ☕ Java Full Stack Developer Intern
-**Brain Ovation · 3 Months**
-
-`Java` · `Spring Boot` · `React` · `REST APIs`
-
-Worked with backend development, frontend integration and full-stack application development.
-
----
-
-### 🐍 Python Full Stack Developer Intern
-**Brain Ovation · 3 Months**
-
-`Python` · `Django` · `Flask` · `HTML` · `CSS` · `JavaScript`
-
-Worked with Python-based backend development, web applications and frontend integration.
-
----
-
-### 🚆 Embedded Systems Internship
-**South Central Railway**
-
-Hands-on exposure to embedded systems and related technologies.
-
----
-
-### 🔧 IoT & Embedded Systems Training
-
-**Sri Shasha Prayathi Technologies Pvt. Ltd.**
-
-`Arduino UNO` · `Raspberry Pi` · `Radar Sensors` · `IoT`
-
-Worked on programming with **Arduino UNO and Raspberry Pi**, integrating **radar sensors** and exploring their applications in IoT-based systems.
-
----
-
 # 🧩 Technical Proficiencies
 
 <div align="center">
