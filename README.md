@@ -1,10 +1,11 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:00B4D8,100:00E5FF&height=240&section=header&text=Sri%20Khyathi%20Ambadipudi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%7C%20Full%20Stack%20%7C%20IoT&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:00B4D8,100:00E5FF&height=240&section=header&text=Sri%20Khyathi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%7C%20Full%20Stack%20%7C%20IoT&descAlignY=60&descSize=18" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Sri+Khyathi+Ambadipudi+%F0%9F%91%8B;Electronics+%26+Communication+Engineering+Graduate+%F0%9F%8E%93;Software+%7C+AI%2FML+%7C+Full+Stack+Developer+%F0%9F%92%BB;Building+Real-World+Technology+Solutions+%F0%9F%9A%80;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Sri+Khyathi+%F0%9F%91%8B;Software+%7C+AI%2FML+%7C+Full+Stack+Developer+%F0%9F%92%BB;Building+Real-World+Technology+Solutions+%F0%9F%9A%80;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve+%E2%9C%A8" />
 
 <br/>
 
@@ -23,7 +24,7 @@
 
 # 👋 About Me
 
-Hi! I'm **Sri Khyathi Ambadipudi**, an **Electronics & Communication Engineering graduate** with a strong interest in software development, artificial intelligence, full-stack development, databases, IoT and cloud technologies.
+Hi! I'm **Sri Khyathi**, with a strong interest in software development, artificial intelligence, full-stack development, databases, IoT, and cloud technologies.
 
 I enjoy transforming ideas into practical applications and continuously improving my technical skills through hands-on projects.
 
@@ -84,11 +85,11 @@ I enjoy transforming ideas into practical applications and continuously improvin
 
 <td width="50%" valign="top">
 
-# 🤖 Enterprise AI Operations Agent
+## 🤖 Enterprise AI Operations Agent
 
 ### `GenAI × RAG × AI Agents × Full Stack × Cloud`
 
-An enterprise-oriented AI platform designed to assist with knowledge retrieval, operational requests, workflow automation and controlled task execution through AI agents, business data and approved tools.
+An enterprise-oriented AI platform designed to assist with knowledge retrieval, operational requests, workflow automation, and controlled task execution through AI agents, business data, and approved tools.
 
 ### ✨ Core Capabilities
 
@@ -116,7 +117,7 @@ An enterprise-oriented AI platform designed to assist with knowledge retrieval, 
 
 <td width="50%" valign="top">
 
-# 🚗 AI Pothole Recognition & Alert System
+## 🚗 AI Pothole Recognition & Alert System
 
 ### `AI × Computer Vision × IoT`
 
@@ -136,18 +137,20 @@ An AI-powered road-safety system designed to identify road-surface damage from v
 
 ### 🛠️ Technology Stack
 
-`Python` `YOLO` `OpenCV` `TensorFlow` `GPS` `ESP32` `IoT`
+`Python` `YOLOv4` `OpenCV` `TensorFlow` `GPS` `ESP32` `IoT`
 
 ### 🏆 Publication
 
 **IEEE Published · ICOSEC 2024**
+
+[View IEEE Publication](https://doi.org/10.1109/ICOSEC61587.2024.10722261)
 
 </td>
 
 </tr>
 </table>
 
-</div>
+---
 
 # 🧩 Technical Proficiencies
 
@@ -239,7 +242,7 @@ An AI-powered road-safety system designed to identify road-surface damage from v
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub+profile!+%F0%9F%92%99;Let's+build+something+meaningful+together!+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub+profile!+%F0%9F%92%99;Keep+Learning.+Keep+Building.+Keep+Growing.+%F0%9F%9A%80" />
 
 </div>
 
