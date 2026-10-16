@@ -139,12 +139,6 @@ An AI-powered road-safety system designed to identify road-surface damage from v
 
 `Python` `YOLOv4` `OpenCV` `TensorFlow` `GPS` `ESP32` `IoT`
 
-### 🏆 Publication
-
-**IEEE Published · ICOSEC 2024**
-
-[View IEEE Publication](https://doi.org/10.1109/ICOSEC61587.2024.10722261)
-
 </td>
 
 </tr>
