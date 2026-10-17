@@ -1,229 +1,233 @@
 
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=SRI%20KHYATHI&fontSize=48&fontColor=00D9FF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%7C%20FULL%20STACK%20%7C%20IoT&descAlignY=60&descSize=15&animation=fadeIn" alt="Sri Khyathi header banner" />
-
-<img src="https://readme-typing-svg.demolab.com/?lines=HELLO%2C+I%27M+SRI+KHYATHI+%F0%9F%91%8B;Software+Developer+%7C+AI%2FML+%7C+Full+Stack;Building+Real-World+Technology+Solutions+%F0%9F%9A%80;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve+%E2%9C%A8&font=JetBrains+Mono&size=20&duration=2600&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=60" alt="Sri Khyathi typing animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:00B4D8,100:00E5FF&height=240&section=header&text=SRI%20KHYATHI&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%7C%20Full%20Stack%20%7C%20IoT&descAlignY=60&descSize=18" alt="Sri Khyathi Header" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Software%20Development-203A43?style=for-the-badge&logo=visualstudiocode&logoColor=00D9FF" alt="Software Development" />
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-203A43?style=for-the-badge&logo=openai&logoColor=00D9FF" alt="Artificial Intelligence" />
-<img src="https://img.shields.io/badge/Full%20Stack-203A43?style=for-the-badge&logo=react&logoColor=00D9FF" alt="Full Stack" />
-<img src="https://img.shields.io/badge/IoT-203A43?style=for-the-badge&logo=arduino&logoColor=00D9FF" alt="IoT" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2600&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=60&lines=HELLO%2C%20I%27M%20SRI%20KHYATHI%20%F0%9F%91%8B%3BSoftware%20Developer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer%20%F0%9F%92%BB%3BBuilding%20Real-World%20Technology%20Solutions%20%F0%9F%9A%80%3BLearn%20%7C%20Build%20%7C%20Deploy%20%7C%20Improve" alt="Sri Khyathi Typing Animation" />
 
 <br/><br/>
 
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=srikhyathi&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/badge/Software%20Development-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-00B4D8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IoT-0891B2?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://profile-counter.glitch.me/srikhyathi/count.svg" alt="GitHub Profile Views" />
 
 </div>
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
-
-## 👩‍💻 About Me
+# 👋 About Me
 
 Hi! I'm **Sri Khyathi**, with a strong interest in software development, artificial intelligence, full-stack development, databases, IoT, and cloud technologies.
 
-- 💻 Interested in building practical software applications.
-- 🤖 Exploring AI, machine learning, and intelligent automation.
-- 🌐 Developing full-stack applications and backend services.
-- 🗄️ Working with databases, SQL, and PL/SQL.
-- 📡 Interested in connecting software with IoT technologies.
-- 🚀 Focused on continuous learning and real-world problem-solving.
+I enjoy transforming ideas into practical applications and continuously improving my technical skills through hands-on projects.
+
+### 🚀 What I Do
+
+- 💻 Build software and full-stack applications
+- 🤖 Explore Artificial Intelligence & Machine Learning
+- 👁️ Work with Computer Vision
+- 🗄️ Develop database-driven applications
+- 🔌 Explore IoT & Embedded Systems
+- ☁️ Learn and work with Cloud technologies
+- 🧠 Strengthen Data Structures & Problem Solving
+- 🚀 Build practical, industry-oriented projects
 
 ---
 
-<!-- ===================== TECHNOLOGY UNIVERSE ===================== -->
-
-## 🌌 My Technology Universe
-
 <div align="center">
 
-### Programming Languages
+# ⚡ Technology Universe
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts&theme=dark" alt="Programming languages" />
+### 💻 Software & Full Stack
 
-### Frontend Development
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,react,spring,django,flask,mysql,oracle,git,github,vscode,linux" alt="Software and Full Stack Technologies" />
 
-<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" alt="Frontend technologies" />
+<br/><br/>
 
-### Backend & Databases
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&width=850&height=55&lines=Python%20%7C%20Java%20%7C%20C%20%7C%20C%2B%2B%3BReact%20%7C%20Spring%20Boot%20%7C%20Django%20%7C%20Flask%3BSQL%20%7C%20PL%2FSQL%20%7C%20Oracle%20%7C%20MySQL%3BYOLO%20%7C%20TensorFlow%20%7C%20OpenCV%3BREST%20APIs%20%7C%20Git%20%7C%20Linux%20%7C%20IoT" alt="Technology Stack Animation" />
 
-<img src="https://skillicons.dev/icons?i=spring,django,flask,fastapi,mysql,postgres&theme=dark" alt="Backend and database technologies" />
+<br/><br/>
 
-### AI, Computer Vision & Data
+### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="AI and computer vision technologies" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform" alt="Cloud and DevOps Technologies" />
 
-### Cloud, DevOps & Development Tools
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode&theme=dark" alt="Development tools" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/SQL-Database%20Queries-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/PL%2FSQL-Database%20Programming-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL SQL" />
-<img src="https://img.shields.io/badge/IoT-Connected%20Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Internet of Things" />
-<img src="https://img.shields.io/badge/REST%20API-Backend%20Integration-6C63FF?style=for-the-badge" alt="REST APIs" />
+<img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 
 </div>
 
 ---
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
+# 🚀 Projects
 
-## 🚀 Featured Projects
+<div align="center">
+
+### Building technology that solves real-world problems.
+
+</div>
+
+<br/>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 Enterprise AI Operations Agent</h3>
+## 🤖 Enterprise AI Operations Agent
 
-<p align="center">
-<strong>GenAI × RAG × AI Agents × Full Stack × Cloud</strong>
-</p>
+### `GenAI × RAG × AI Agents × Full Stack × Cloud`
 
-<p>
-An AI-powered application concept designed to help users retrieve information, interact with knowledge sources, and automate selected operational workflows through a modern full-stack interface.
-</p>
+An enterprise-oriented AI platform designed to assist with knowledge retrieval, operational requests, workflow automation, and controlled task execution through AI agents and approved tools.
 
-**Core Capabilities**
+### ✨ Core Capabilities
 
-- Intelligent question answering
-- Retrieval-Augmented Generation (RAG)
-- AI agent workflow orchestration
-- Context-aware responses
-- Knowledge-base integration
-- Document-based information retrieval
-- Semantic search
-- Vector database integration
-- LLM-powered interactions
-- REST API integration
-- Backend service architecture
-- Interactive React interface
-- User input and response handling
-- Database-backed information management
-- Containerized deployment readiness
+- 🤖 AI-powered operations agent
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🧠 Enterprise knowledge retrieval
+- 🔍 Context-aware question answering
+- 🗄️ Database-driven information access
+- 🔧 Tool and API integration
+- 🎫 Operational and support workflows
+- 👤 Role-based access control
+- ✅ Human approval for sensitive actions
+- 📝 Audit logging
+- 📊 Operations dashboard
+- 🔐 Secure authentication
+- 🌐 REST APIs
+- ☁️ Cloud-ready architecture
+- 🐳 Containerized deployment
 
-**Technology Stack**
+### 🛠️ Technology Stack
 
-`Python` `FastAPI` `React` `TypeScript` `LLMs` `RAG` `AI Agents` `PostgreSQL` `pgvector` `REST APIs` `Docker` `AWS`
+`Python` `FastAPI` `React` `TypeScript` `LLM` `RAG` `AI Agents` `PostgreSQL` `pgvector` `REST APIs` `Docker` `AWS`
 
 </td>
+
 <td width="50%" valign="top">
 
-<h3 align="center">🚗 AI Pothole Recognition & Alert System</h3>
+## 🚗 AI Pothole Recognition & Alert System
 
-<p align="center">
-<strong>AI × Computer Vision × IoT</strong>
-</p>
+### `AI × Computer Vision × IoT`
 
-<p>
-An AI-driven road-damage detection and alert system that combines computer vision, camera hardware, and location information to help identify potholes and communicate road-condition alerts.
-</p>
+An AI-powered road-safety system designed to detect potholes using computer vision and provide location-aware alerts for intelligent transportation applications.
 
-**Core Capabilities**
+### ✨ Core Capabilities
 
-- AI-based pothole detection
-- Image and video analysis
-- YOLOv4 object detection
-- OpenCV image processing
-- Confidence-based detection
-- GPS coordinate collection
-- ESP32 camera module integration
-- Vehicle-oriented alert generation
-- Road-condition monitoring
-- Location-aware notifications
-- Road-damage location identification
-- AI and IoT integration
-- Smart transportation applications
-- Detection-result analysis
-- Real-world road-safety support
+- 🎯 AI-based pothole detection
+- 📷 Image and video analysis
+- 🤖 YOLOv4 object detection
+- 🧠 OpenCV image processing
+- 📊 Confidence-based detection
+- 📍 GPS-based location information
+- 📡 ESP32 camera module integration
+- 🚘 Vehicle safety alert mechanism
+- 🔄 Road-condition monitoring
+- ☁️ Location-aware alert generation
+- 🗺️ Road-damage location identification
+- 🔗 AI and IoT component integration
+- 🛣️ Smart transportation support
+- 🚧 Road-damage identification
+- 📊 Detection result analysis
 
-**Technology Stack**
+### 🛠️ Technology Stack
 
-`Python` `YOLOv4` `OpenCV` `TensorFlow` `GPS` `ESP32` `IoT` `Computer Vision`
+`Python` `YOLOv4` `OpenCV` `TensorFlow` `GPS` `ESP32` `IoT`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-<!-- ===================== TECHNICAL PROFICIENCIES ===================== -->
+# 🧩 Technical Proficiencies
 
-## 🛠️ Technical Proficiencies
+<div align="center">
 
 | Category | Technologies |
-|---|---|
-| Programming | Python, Java, C, C++, JavaScript |
-| Frontend | HTML, CSS, JavaScript, React |
-| Backend | Spring Boot, Django, Flask, FastAPI |
-| Databases | SQL, MySQL, PostgreSQL, PL/SQL, DBMS |
-| AI & Computer Vision | TensorFlow, OpenCV, YOLOv4, RAG concepts |
-| IoT & Embedded | ESP32, IoT sensors, GPS integration |
-| Development Tools | Git, GitHub, VS Code |
-| Cloud & Deployment | Docker, AWS fundamentals, REST APIs |
-| Core Concepts | OOP, debugging, problem-solving, API integration |
+|:---:|:---|
+| 💻 Programming | Python · Java · C · C++ · JavaScript |
+| 🌐 Full Stack | React · Spring Boot · Django · Flask |
+| 🎨 Frontend | HTML · CSS · JavaScript |
+| 🗄️ Database | SQL · PL/SQL · Oracle · MySQL · DBMS |
+| 🤖 AI / ML | YOLO · TensorFlow · OpenCV |
+| 🔌 IoT / Embedded | ESP32 · GPS · Arduino UNO · Raspberry Pi · Radar Sensors · IoT |
+| ☁️ Cloud | AWS · Azure · GCP |
+| ⚙️ DevOps / IaC | Terraform |
+| 🔗 Backend | REST APIs |
+| 🧠 CS Fundamentals | DSA · OOP · SDLC · Problem Solving |
+| 🛠️ Tools | Git · GitHub · VS Code · Linux |
 
----
-
-<!-- ===================== TECHNOLOGY FOCUS ===================== -->
-
-## ⚡ Technology Focus
+</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Application+Development;SQL+%26+Database+Management;Computer+Vision+%26+IoT;Cloud+Technologies+%26+Deployment&font=JetBrains+Mono&size=18&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=850&height=55" alt="Technology focus animation" />
+# ⚡ Technology Focus
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2300&pause=800&color=00D9FF&center=true&vCenter=true&width=850&height=55&lines=Cloud%20Computing%20%E2%98%81%EF%B8%8F%3BDevOps%20%26%20Automation%20%E2%9A%99%EF%B8%8F%3BAI%20%26%20Machine%20Learning%20%F0%9F%A4%96%3BData%20%26%20Database%20Technologies%3BEngineering%20Real-World%20Technology%20Solutions%20%F0%9F%9A%80" alt="Technology Focus Animation" />
 
 </div>
 
 ---
 
-<!-- ===================== CORE INTERESTS ===================== -->
-
-## 🎯 Core Interests
+# 🧠 Core Interests
 
 <div align="center">
 
-| 🤖 Artificial Intelligence | 🌐 Full Stack Development |
-|:---:|:---:|
-| Intelligent applications and AI-powered workflows | Modern frontend and backend systems |
+🤖 **Artificial Intelligence**
 
-| 🗄️ Database Technologies | 📡 IoT & Smart Systems |
-|:---:|:---:|
-| SQL, PL/SQL, data management and retrieval | Connected devices and real-world automation |
+💻 **Software Development**
+
+🌐 **Full Stack Development**
+
+👁️ **Computer Vision**
+
+🗄️ **Databases & SQL**
+
+🔌 **IoT & Embedded Systems**
+
+☁️ **Cloud Computing**
+
+🚀 **Real-World Applications**
 
 </div>
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
-
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/srikhyathi">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://discord.com">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting+my+GitHub+profile!+%F0%9F%92%99&font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=45" alt="Thank you for visiting" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=45&lines=Thanks%20for%20visiting%20my%20GitHub%20profile!%20%F0%9F%92%99" alt="Thank You Animation" />
 
 </div>
 
-<!-- ===================== FOOTER ===================== -->
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer" alt="Footer wave" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:00B4D8,100:00E5FF&height=140&section=footer" alt="Footer Banner" />
+
+</div>
