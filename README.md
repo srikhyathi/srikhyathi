@@ -14,6 +14,10 @@
 <img src="https://img.shields.io/badge/Full%20Stack-00B4D8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/IoT-0891B2?style=for-the-badge"/>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=srikhyathi&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="GitHub Profile Views" />
+
 </div>
 
 ---
