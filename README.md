@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:00B4D8,100:00E5FF&height=240&section=header&text=SRI%20KHYATHI&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%7C%20Full%20Stack%20%7C%20IoT&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:00B4D8,100:00E5FF&height=240&section=header&text=SRI%20KHYATHI&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%7C%20Full%20Stack%20%7C%20IoT&descAlignY=60&descSize=18" alt="Sri Khyathi Header" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=HELLO%2C+I%27M+SRI+KHYATHI+%F0%9F%91%8B;Software+%7C+AI%2FML+%7C+Full+Stack+Developer+%F0%9F%92%BB;Building+Real-World+Technology+Solutions+%F0%9F%9A%80;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2600&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=60&lines=HELLO%2C%20I%27M%20SRI%20KHYATHI%20%F0%9F%91%8B%3BSoftware%20Developer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer%20%F0%9F%92%BB%3BBuilding%20Real-World%20Technology%20Solutions%20%F0%9F%9A%80%3BLearn%20%7C%20Build%20%7C%20Deploy%20%7C%20Improve" alt="Sri Khyathi Typing Animation" />
 
 <br/><br/>
 
@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=srikhyathi&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="GitHub Profile Views" />
+<img src="https://profile-counter.glitch.me/srikhyathi/count.svg" alt="GitHub Profile Views" />
 
 </div>
 
@@ -47,17 +47,17 @@ I enjoy transforming ideas into practical applications and continuously improvin
 
 ### 💻 Software & Full Stack
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,react,spring,django,flask,mysql,oracle,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,react,spring,django,flask,mysql,oracle,git,github,vscode,linux" alt="Software and Full Stack Technologies" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Python+%7C+Java+%7C+C+%7C+C%2B%2B;React+%7C+Spring+Boot+%7C+Django+%7C+Flask;SQL+%7C+PL%2FSQL+%7C+Oracle+%7C+MySQL;YOLO+%7C+TensorFlow+%7C+OpenCV;REST+APIs+%7C+Git+%7C+Linux+%7C+IoT" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&width=850&height=55&lines=Python%20%7C%20Java%20%7C%20C%20%7C%20C%2B%2B%3BReact%20%7C%20Spring%20Boot%20%7C%20Django%20%7C%20Flask%3BSQL%20%7C%20PL%2FSQL%20%7C%20Oracle%20%7C%20MySQL%3BYOLO%20%7C%20TensorFlow%20%7C%20OpenCV%3BREST%20APIs%20%7C%20Git%20%7C%20Linux%20%7C%20IoT" alt="Technology Stack Animation" />
 
 <br/><br/>
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform" alt="Cloud and DevOps Technologies" />
 
 <br/><br/>
 
@@ -176,7 +176,7 @@ An AI-powered road-safety system designed to detect potholes using computer visi
 
 # ⚡ Technology Focus
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2300&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=Cloud+Computing+%E2%98%81%EF%B8%8F;DevOps+%26+Automation+%E2%9A%99%EF%B8%8F;AI+%26+Machine+Learning+%F0%9F%A4%96;Data+%26+Database+Technologies+%F0%9F%97%84%EF%B8%8F;Engineering+Real-World+Technology+Solutions+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2300&pause=800&color=00D9FF&center=true&vCenter=true&width=850&height=55&lines=Cloud%20Computing%20%E2%98%81%EF%B8%8F%3BDevOps%20%26%20Automation%20%E2%9A%99%EF%B8%8F%3BAI%20%26%20Machine%20Learning%20%F0%9F%A4%96%3BData%20%26%20Database%20Technologies%3BEngineering%20Real-World%20Technology%20Solutions%20%F0%9F%9A%80" alt="Technology Focus Animation" />
 
 </div>
 
@@ -211,16 +211,16 @@ An AI-powered road-safety system designed to detect potholes using computer visi
 <div align="center">
 
 <a href="https://github.com/srikhyathi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://discord.com">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub+profile!+%F0%9F%92%99" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=45&lines=Thanks%20for%20visiting%20my%20GitHub%20profile!%20%F0%9F%92%99" alt="Thank You Animation" />
 
 </div>
 
@@ -228,6 +228,6 @@ An AI-powered road-safety system designed to detect potholes using computer visi
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:00B4D8,100:00E5FF&height=140&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:00B4D8,100:00E5FF&height=140&section=footer" alt="Footer Banner" />
 
 </div>
