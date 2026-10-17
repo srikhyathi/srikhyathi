@@ -5,18 +5,14 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=HELLO%2C+I'M+SRI+KHYATHI+%F0%9F%91%8B;Software+%7C+AI%2FML+%7C+Full+Stack+Developer+%F0%9F%92%BB;Building+Real-World+Technology+Solutions+%F0%9F%9A%80;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=HELLO%2C+I%27M+SRI+KHYATHI+%F0%9F%91%8B;Software+%7C+AI%2FML+%7C+Full+Stack+Developer+%F0%9F%92%BB;Building+Real-World+Technology+Solutions+%F0%9F%9A%80;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve+%E2%9C%A8" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Software%20Development-6C63FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Full%20Stack-00B4D8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/IoT-0891B2?style=for-the-badge"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=srikhyathi&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -51,7 +47,7 @@ I enjoy transforming ideas into practical applications and continuously improvin
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=600&center=true&vCenter=true&width=700&lines=Python+%7C+Java+%7C+C+%7C+C%2B%2B;React+%7C+Spring+Boot+%7C+Django+%7C+Flask;SQL+%7C+PL%2FSQL+%7C+Oracle+%7C+MySQL;YOLO+%7C+TensorFlow+%7C+OpenCV;REST+APIs+%7C+Git+%7C+Linux+%7C+IoT" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Python+%7C+Java+%7C+C+%7C+C%2B%2B;React+%7C+Spring+Boot+%7C+Django+%7C+Flask;SQL+%7C+PL%2FSQL+%7C+Oracle+%7C+MySQL;YOLO+%7C+TensorFlow+%7C+OpenCV;REST+APIs+%7C+Git+%7C+Linux+%7C+IoT" />
 
 <br/><br/>
 
@@ -176,7 +172,7 @@ An AI-powered road-safety system designed to detect potholes using computer visi
 
 # ⚡ Technology Focus
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2300&pause=650&center=true&vCenter=true&width=750&lines=Cloud+Computing+%E2%98%81%EF%B8%8F;DevOps+%26+Automation+%E2%9A%99%EF%B8%8F;AI+%26+Machine+Learning+%F0%9F%A4%96;Data+%26+Database+Technologies+%F0%9F%97%84%EF%B8%8F;Engineering+Real-World+Technology+Solutions+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2300&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=Cloud+Computing+%E2%98%81%EF%B8%8F;DevOps+%26+Automation+%E2%9A%99%EF%B8%8F;AI+%26+Machine+Learning+%F0%9F%A4%96;Data+%26+Database+Technologies+%F0%9F%97%84%EF%B8%8F;Engineering+Real-World+Technology+Solutions+%F0%9F%9A%80" />
 
 </div>
 
@@ -220,7 +216,7 @@ An AI-powered road-safety system designed to detect potholes using computer visi
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub+profile!+%F0%9F%92%99" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub+profile!+%F0%9F%92%99" />
 
 </div>
 
