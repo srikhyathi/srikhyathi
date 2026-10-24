@@ -231,3 +231,19 @@ An AI-powered road-safety system designed to detect potholes using computer visi
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:00B4D8,100:00E5FF&height=140&section=footer" alt="Footer Banner" />
 
 </div>
+
+
+---
+
+<div align="center">
+
+# 📊 GitHub Activity Studio
+
+<img src="./github_radar_chart.svg" alt="GitHub activity radar chart" width="500" />
+
+<sub>🌿 Code smarter. Build consistently. Keep growing.</sub>
+
+</div>
+
+---
+
