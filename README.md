@@ -89,18 +89,9 @@ I enjoy transforming ideas into practical applications and continuously improvin
 
 ### `AWS (EKS, VPC) × Terraform IaC × Docker × GitHub Actions`
 
-Production-grade Infrastructure as Code (Terraform) and CI/CD deployment pipeline provisioning resilient AWS VPCs and EKS clusters across primary (`us-east-1`) and secondary (`eu-central-1`) regions with zero-downtime rolling updates.
+Production-grade Infrastructure as Code (Terraform) and CI/CD deployment pipeline provisioning resilient AWS VPCs and EKS clusters across primary (`us-east-1`) and secondary (`eu-central-1`) regions with zero-downtime rolling updates (`maxSurge: 1, maxUnavailable: 0`) and Prometheus health metrics.
 
-### ✨ Core Capabilities
-
-- 🌍 Multi-region active and disaster recovery architecture
-- 🏗️ Infrastructure as Code with modular Terraform
-- ☸️ Amazon EKS cluster and worker node group orchestration
-- 🛡️ Multi-AZ VPC networking with public/private subnet isolation
-- 🔄 Zero-downtime rolling update strategy (`maxSurge: 1, maxUnavailable: 0`)
-- 🤖 Automated GitHub Actions CI/CD test, build, and deploy pipeline
-- 🐳 Secure multi-stage unprivileged Docker container builds
-- 📈 Real-time Prometheus metrics (`/metrics`) and Kubernetes health probes (`/healthz`, `/readyz`)
+<br/>
 
 ### 🛠️ Technology Stack
 
@@ -114,18 +105,9 @@ Production-grade Infrastructure as Code (Terraform) and CI/CD deployment pipelin
 
 ### `Python × FastAPI × Playwright × Visual QA × Automation`
 
-Enterprise-scale backend microservices for autonomous multimodal UI visual layout checking and dynamic self-healing, built during internship at Infotact Solutions with automated branch workflows and PR lifecycle integration.
+Enterprise-scale backend microservices for autonomous multimodal UI visual layout anomaly checking and dynamic self-healing, developed during internship at Infotact Solutions with automated branch workflows and pull request lifecycle integration.
 
-### ✨ Core Capabilities
-
-- 👁️ Automated visual layout and DOM anomaly detection
-- 🩹 Dynamic closed-loop self-healing remediation engine
-- 🎭 Headless Playwright browser automation and regression runner
-- ⚡ High-throughput FastAPI REST API gateway
-- 🛡️ Resilient circuit breaker and adaptive throttling
-- 📋 Automated GitHub branch integration and PR verification workflows
-- 📊 Comprehensive diagnostics and test harness (75+ unit/integration tests)
-- 🐳 Containerized backend service architecture with PostgreSQL storage
+<br/>
 
 ### 🛠️ Technology Stack
 
@@ -142,18 +124,9 @@ Enterprise-scale backend microservices for autonomous multimodal UI visual layou
 
 ### `Computer Vision × YOLOv8 × IEEE Published × ICOSEC 2024 (5th Place)`
 
-Edge-native computer vision platform detecting road hazards in real time, computing stereoscopic 3D depth, and broadcasting proactive alerts across vehicle CAN bus and GPS telemetry networks.
+Edge-native computer vision platform detecting road hazards in real time (55+ FPS), computing stereoscopic 3D depth, and broadcasting proactive alerts across vehicle CAN bus and GPS networks. Published research paper in IEEE and awarded **5th Place Globally** at **ICOSEC 2024**.
 
-### ✨ Core Capabilities
-
-- 🎯 High-speed YOLOv8 hazard detection (55+ FPS on edge hardware)
-- 🏆 Awarded **5th Place Globally** at **ICOSEC 2024**
-- 📄 Published IEEE research paper on autonomous vehicle safety
-- 📐 Stereoscopic 3D crater depth profiling and hazard classification
-- ⏱️ Predictive Time-to-Collision (TTC) alert engine
-- 🛰️ NMEA-0183 GPS geotagging and real-time hazard mapping
-- 🚘 SAE J1939 vehicle CAN bus integration and driver warning HUD
-- ⚡ TensorRT FP16/INT8 edge quantization
+<br/>
 
 ### 🛠️ Technology Stack
 
@@ -167,18 +140,9 @@ Edge-native computer vision platform detecting road hazards in real time, comput
 
 ### `GenAI × RAG × AI Agents × CyberForge Hackathon`
 
-Autonomous enterprise operations governance engine developed during Mitigata's CyberForge Hackathon for controlled operational task execution, audit logging, and secure knowledge retrieval.
+Autonomous enterprise governance and AIOps engine developed during **Mitigata's CyberForge Hackathon** featuring role-based access control, real-time anomaly detection, automated root-cause correlation, and safe policy-guided remediation.
 
-### ✨ Core Capabilities
-
-- 🤖 Autonomous AI-powered operations agent
-- 📚 Retrieval-Augmented Generation (RAG) over enterprise knowledge
-- 🔍 Context-aware question answering and database-driven access
-- 🔧 Secure tool and external API invocation
-- 👤 Role-based access control (RBAC) with human-in-the-loop approval
-- 📝 Tamper-evident audit logging and telemetry dashboard
-- 🔐 Secure JWT authentication and token verification
-- ☁️ Cloud-ready containerized microservices architecture
+<br/>
 
 ### 🛠️ Technology Stack
 
