@@ -74,7 +74,7 @@ I enjoy transforming ideas into practical applications and continuously improvin
 
 <div align="center">
 
-### Building technology that solves real-world problems.
+### Building resilient, production-grade technology that solves real-world challenges.
 
 </div>
 
@@ -85,65 +85,104 @@ I enjoy transforming ideas into practical applications and continuously improvin
 
 <td width="50%" valign="top">
 
-## 🤖 Enterprise AI Operations Agent
+## ☁️ [Automated Multi-Region CI/CD & Infrastructure](https://github.com/srikhyathi/Automated-Multi-Region-CI-CD-Infrastructure)
 
-### `GenAI × RAG × AI Agents × Full Stack × Cloud`
+### `AWS (EKS, VPC) × Terraform IaC × Docker × GitHub Actions`
 
-An enterprise-oriented AI platform designed to assist with knowledge retrieval, operational requests, workflow automation, and controlled task execution through AI agents and approved tools.
+Production-grade Infrastructure as Code (Terraform) and CI/CD deployment pipeline provisioning resilient AWS VPCs and EKS clusters across primary (`us-east-1`) and secondary (`eu-central-1`) regions with zero-downtime rolling updates.
 
 ### ✨ Core Capabilities
 
-- 🤖 AI-powered operations agent
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🧠 Enterprise knowledge retrieval
-- 🔍 Context-aware question answering
-- 🗄️ Database-driven information access
-- 🔧 Tool and API integration
-- 🎫 Operational and support workflows
-- 👤 Role-based access control
-- ✅ Human approval for sensitive actions
-- 📝 Audit logging
-- 📊 Operations dashboard
-- 🔐 Secure authentication
-- 🌐 REST APIs
-- ☁️ Cloud-ready architecture
-- 🐳 Containerized deployment
+- 🌍 Multi-region active and disaster recovery architecture
+- 🏗️ Infrastructure as Code with modular Terraform
+- ☸️ Amazon EKS cluster and worker node group orchestration
+- 🛡️ Multi-AZ VPC networking with public/private subnet isolation
+- 🔄 Zero-downtime rolling update strategy (`maxSurge: 1, maxUnavailable: 0`)
+- 🤖 Automated GitHub Actions CI/CD test, build, and deploy pipeline
+- 🐳 Secure multi-stage unprivileged Docker container builds
+- 📈 Real-time Prometheus metrics (`/metrics`) and Kubernetes health probes (`/healthz`, `/readyz`)
 
 ### 🛠️ Technology Stack
 
-`Python` `FastAPI` `React` `TypeScript` `LLM` `RAG` `AI Agents` `PostgreSQL` `pgvector` `REST APIs` `Docker` `AWS`
+`AWS (EKS, VPC, ECR)` `Terraform` `Docker` `Kubernetes` `GitHub Actions` `Python` `FastAPI`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🚗 AI Pothole Recognition & Alert System
+## 🔮 [OmniSight — Autonomous Multimodal UI Self-Healing](https://github.com/srikhyathi/OmniSight-Multimodal-UI-Self-Healing)
 
-### `AI × Computer Vision × IoT`
+### `Python × FastAPI × Playwright × Visual QA × Automation`
 
-An AI-powered road-safety system designed to detect potholes using computer vision and provide location-aware alerts for intelligent transportation applications.
+Enterprise-scale backend microservices for autonomous multimodal UI visual layout checking and dynamic self-healing, built during internship at Infotact Solutions with automated branch workflows and PR lifecycle integration.
 
 ### ✨ Core Capabilities
 
-- 🎯 AI-based pothole detection
-- 📷 Image and video analysis
-- 🤖 YOLOv4 object detection
-- 🧠 OpenCV image processing
-- 📊 Confidence-based detection
-- 📍 GPS-based location information
-- 📡 ESP32 camera module integration
-- 🚘 Vehicle safety alert mechanism
-- 🔄 Road-condition monitoring
-- ☁️ Location-aware alert generation
-- 🗺️ Road-damage location identification
-- 🔗 AI and IoT component integration
-- 🛣️ Smart transportation support
-- 🚧 Road-damage identification
-- 📊 Detection result analysis
+- 👁️ Automated visual layout and DOM anomaly detection
+- 🩹 Dynamic closed-loop self-healing remediation engine
+- 🎭 Headless Playwright browser automation and regression runner
+- ⚡ High-throughput FastAPI REST API gateway
+- 🛡️ Resilient circuit breaker and adaptive throttling
+- 📋 Automated GitHub branch integration and PR verification workflows
+- 📊 Comprehensive diagnostics and test harness (75+ unit/integration tests)
+- 🐳 Containerized backend service architecture with PostgreSQL storage
 
 ### 🛠️ Technology Stack
 
-`Python` `YOLOv4` `OpenCV` `TensorFlow` `GPS` `ESP32` `IoT`
+`Python` `FastAPI` `Playwright` `PostgreSQL` `Docker` `Git & PR Automation` `REST APIs`
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🚗 [AI-Driven Pothole Recognition & Alert System](https://github.com/srikhyathi/AI-Pothole-Recognition)
+
+### `Computer Vision × YOLOv8 × IEEE Published × ICOSEC 2024 (5th Place)`
+
+Edge-native computer vision platform detecting road hazards in real time, computing stereoscopic 3D depth, and broadcasting proactive alerts across vehicle CAN bus and GPS telemetry networks.
+
+### ✨ Core Capabilities
+
+- 🎯 High-speed YOLOv8 hazard detection (55+ FPS on edge hardware)
+- 🏆 Awarded **5th Place Globally** at **ICOSEC 2024**
+- 📄 Published IEEE research paper on autonomous vehicle safety
+- 📐 Stereoscopic 3D crater depth profiling and hazard classification
+- ⏱️ Predictive Time-to-Collision (TTC) alert engine
+- 🛰️ NMEA-0183 GPS geotagging and real-time hazard mapping
+- 🚘 SAE J1939 vehicle CAN bus integration and driver warning HUD
+- ⚡ TensorRT FP16/INT8 edge quantization
+
+### 🛠️ Technology Stack
+
+`Python` `YOLOv8` `OpenCV` `TensorRT` `FastAPI` `CAN Bus` `GPS` `IEEE Research`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 [Enterprise AI Operations Agent](https://github.com/srikhyathi/Enterprise-AI-Operations-Agent)
+
+### `GenAI × RAG × AI Agents × CyberForge Hackathon`
+
+Autonomous enterprise operations governance engine developed during Mitigata's CyberForge Hackathon for controlled operational task execution, audit logging, and secure knowledge retrieval.
+
+### ✨ Core Capabilities
+
+- 🤖 Autonomous AI-powered operations agent
+- 📚 Retrieval-Augmented Generation (RAG) over enterprise knowledge
+- 🔍 Context-aware question answering and database-driven access
+- 🔧 Secure tool and external API invocation
+- 👤 Role-based access control (RBAC) with human-in-the-loop approval
+- 📝 Tamper-evident audit logging and telemetry dashboard
+- 🔐 Secure JWT authentication and token verification
+- ☁️ Cloud-ready containerized microservices architecture
+
+### 🛠️ Technology Stack
+
+`Python` `FastAPI` `React` `TypeScript` `LLM` `RAG` `pgvector` `Docker` `AWS`
 
 </td>
 
